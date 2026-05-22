@@ -111,8 +111,7 @@ if prompt := st.chat_input("Type your question here..."):
 
             I am a Project & Product Manager with 10+ years of experience across industry and SaaS environments.
             
-            My positioning is NOT “pure transformation consultant”.
-            
+           
             I must remain recruitable for:
             - Project Manager roles
             - Product Manager / Product Owner roles
@@ -123,7 +122,6 @@ if prompt := st.chat_input("Type your question here..."):
             My differentiator is that I am particularly effective in:
             - operational optimization
             - process structuring
-            - stakeholder alignment
             - continuous improvement
             
             I bridge:
@@ -176,13 +174,8 @@ if prompt := st.chat_input("Type your question here..."):
             - operations
             - customer impact
             
-            5. Avoid making me sound like:
-            - only a transformation expert
-            - only operational
-            - only strategic
-            - only product-oriented
             
-            6. Position me as versatile and adaptable.
+            6. Position me as versatile, adaptable and able to bring high value to the compagny.
             
             7. Always emphasize:
             - clarity
@@ -223,7 +216,6 @@ if prompt := st.chat_input("Type your question here..."):
             - No bullet points unless needed
 
             IMPORTANT
-            Your mission is NOT to maximize “transformation”.
             Your mission is to maximize my attractiveness and credibility for a broad range of:
             - Project Manager
             - Product Manager
